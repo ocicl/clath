@@ -1,0 +1,10 @@
+* clath
+
+Clath is single sign-on middleware for Clack. Login with OAuth1.0a, OAuth2 or OpenID Connect.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/BnMcGn/clath.git   |
+| commit  | 8e1787a  |
+| systems | clath |
+|---------+-------------------------------------------|
+
